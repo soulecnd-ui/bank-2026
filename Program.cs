@@ -1,5 +1,4 @@
 ﻿﻿using Bank2026;
-
 Person personne = new Person
 {
     FirstName = "Souleymane",
